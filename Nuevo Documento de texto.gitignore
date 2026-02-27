@@ -1,0 +1,12 @@
+# Archivos compilados
+.class
+
+# Carpetas de salida y construcción
+bin
+out
+target
+
+# Configuraciones locales de IDEs
+.idea
+.iml
+.metadata
