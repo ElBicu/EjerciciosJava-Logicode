@@ -1,12 +1,9 @@
-# Archivos compilados
-.class
+# Ignorar carpetas de compilación de NetBeans
+build/
+dist/
+nbbuild/
+nbdist/
 
-# Carpetas de salida y construcción
-bin
-out
-target
-
-# Configuraciones locales de IDEs
-.idea
-.iml
-.metadata
+# Ignorar configuraciones privadas de tu computadora
+nbproject/private/
+*.class
